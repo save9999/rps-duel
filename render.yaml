@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: rps-duel
+    runtime: static
+    staticPublishPath: .
+    buildCommand: ""
